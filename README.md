@@ -1,7 +1,3 @@
-Sure, here’s a filled-in version based on what I know about you. Let me know if any details need tweaking!
-
----
-
 ## 👋 Hi there, I'm Vidura!
 
 Welcome to my GitHub profile!
