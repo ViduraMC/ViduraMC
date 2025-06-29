@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm passionate about technology, open source, and building impactful solutions. Here you'll find a showcase of my work, collaborations, and explorations in the world of software development.
 
 ---
-![ChatGPT Image Jun 29, 2025, 03_06_46 PM](https://github.com/user-attachments/assets/bcf68ac9-81cd-4fc6-9c17-374b79284fa7)
+
 ---
 ## 🚀 About Me
 
