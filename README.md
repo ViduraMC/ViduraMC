@@ -43,10 +43,4 @@ I'm passionate about technology, open source, and building impactful solutions. 
 
 ---
 
-## 📊 GitHub Stats
-
-![ViduraMC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViduraMC\&show_icons=true\&theme=radical)
-
----
-
 *Thanks for stopping by! Feel free to explore my repos and connect with me.*
