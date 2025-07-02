@@ -23,7 +23,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
   * Built and delivered multiple end-to-end academic projects
   * Participated in university coding competitions
 
----
+
 
 ## 📂 Featured Projects
 
