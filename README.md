@@ -22,7 +22,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
   * Consistent Dean’s List performer at SLIIT
   * Built and delivered multiple end-to-end academic projects
   * Participated in coding competitions
-
+ 
 ---
 
 ## 🌐 Connect with Me
