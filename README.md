@@ -9,7 +9,7 @@ I'm passionate about technology, open source, and building impactful solutions. 
 
 ## 🚀 About Me
 
-* 💻 **Profession:** Second-year IT Student at SLIIT, aspiring Software Engineer
+* 💻 **Profession:** Third Year IT Student at SLIIT, aspiring Software Engineer
 * 🔬 **Areas of Interest:** Full-stack web development, Java MVC architecture, database system design, UI/UX, MERN Stack, Algorithms & Data Structures, Design patterns
 * 🌱 **Currently Learning:** React + Electron for desktop apps, offline-first sync strategies, advanced Java backend patterns, advanced Python 
 * 🛠️ **Top Skills:**
